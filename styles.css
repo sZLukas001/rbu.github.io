@@ -1,0 +1,18 @@
+			*				{margin:0px; padding:0px;}
+			header, footer	{background-color: #000000; padding:5px; text-align:center;}
+			nav				{background-color: #ffffff; padding:5px; text-align:center; font-weight:bold;}
+			nav ul 			{list-style-type:none; padding:20px;}
+			nav ul li		{display: inline; text-align:center}
+			#spalten		{display: table; min-width:720px; min-width:60em;}
+			aside			{background-color:#fffff; padding:10px; width:180px; display: table-cell;}
+			main			{ padding:5px; display: table-cell; padding:10px;}
+			.logo			{height:128; width:128;}
+			.Menu			{font-family:Arial Black; font-size:18px;}
+			.banner			{width:1280; height:240;}
+			.content		{top:347px; width:1280; background-color:white;}
+			.text			{top:45px;}
+			a:link 			{ font-weight:bold; color:blue; text-decoration:none; }
+			a:visited 		{ font-weight:bold; color:silver; text-decoration:none; }
+			a:focus 		{ font-weight:bold; color:red; text-decoration:underline; }
+			a:hover 		{ font-weight:bold; color:green; text-decoration:none; }
+			a:active		{font-weight:bold; color:lime; text-decoration:none; }
